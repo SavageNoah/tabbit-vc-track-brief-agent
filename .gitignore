@@ -1,0 +1,12 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.log
+
+# Do not publish local browser profiles or API response dumps
+tabbit-cdp-profile/
+*.actual.json
+*profile*/
+
+# Generated archives can be rebuilt from source
+*.zip
