@@ -13,6 +13,7 @@ Tabbit 链接：[VC 一页赛道简报 Agent](https://web.tabbit.com/share/skill
 ## 文件
 
 - [SKILL.md](SKILL.md)：Agent 工作流说明与输出模板。
+- [examples/agent-permission-governance-brief.md](examples/agent-permission-governance-brief.md)：企业 AI Agent 权限治理与审计赛道的一页简报输出样例。
 
 ## 原创性说明
 
